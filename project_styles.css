@@ -1,6 +1,6 @@
 .horizontal_ul {
     list-style: none;
-    width: 75%;
+    width: 100%;
     height: 140px;
     display: table;   /* Allow the centering to work */
     margin: 0 auto;
@@ -13,7 +13,7 @@
 .left_li a {
   display: block;
   text-align: center;
-  padding: 36px;
+  padding: 20%;
   text-decoration: none;
 }
 .center {
