@@ -3,9 +3,11 @@
     margin: 0px;
     width: 400px;
     height: 140px;
-    align: centre;
 }
 
+.left_li {
+    float: left;   
+}
 .center {
   margin: auto;
   width: 70%;
