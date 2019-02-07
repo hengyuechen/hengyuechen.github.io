@@ -1,7 +1,5 @@
 .horizontal_ul {
     list-style: none;
-    width: 100%;
-    height: 140px;
     display: table;   /* Allow the centering to work */
     margin: 0 auto;
 }
